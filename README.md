@@ -19,9 +19,7 @@ Dataset ini berasal dari sebuah database yang terdiri dari 120 observasi bulanan
 
 ## Feature Importance
 
-# Interpretasi
-
-## A. Interpretasi:
+### A. Interpretasi Feature "Terkahir":
 
 ![Interpretasi A](results/output.png)
 
@@ -42,7 +40,7 @@ Dataset ini berasal dari sebuah database yang terdiri dari 120 observasi bulanan
 
 ---
 
-## B. Interpretasi:
+### B. Interpretasi Feature "GDP Growth":
 
 ![Interpretasi B](results/output1.png)
 
@@ -71,7 +69,7 @@ Dataset ini berasal dari sebuah database yang terdiri dari 120 observasi bulanan
 
 ---
 
-## C. Interpretasi:
+### C. Interpretasi Feature "Cadangan Devisa":
 
 ![Interpretasi C](results/output2.png)
 
